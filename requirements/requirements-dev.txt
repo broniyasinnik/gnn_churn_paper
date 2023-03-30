@@ -1,0 +1,16 @@
+pyclean
+ipython
+pytest
+isort
+black
+flake8
+jupyterlab
+matplotlib
+jupytext
+ipympl
+seaborn
+visidata
+tensorboard
+vertica-python
+pyarrow
+plotly
