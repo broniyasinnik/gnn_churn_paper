@@ -16,3 +16,4 @@
 ```
 
 # gnn_churn_paper
+The **full data** will be available upon acceptance.
